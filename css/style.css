@@ -1,0 +1,8 @@
+.head{
+    height: 140px;
+    background-color: #00bfff;
+    background-image: url(../img/logo.svg), url(../img/pattern.png);
+    background-size: 20%, 35%;
+    background-repeat: no-repeat, repeat;
+    background-position: 0% 80%, top;
+}
